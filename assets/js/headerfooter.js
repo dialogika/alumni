@@ -67,6 +67,7 @@ class Header extends HTMLElement {
               </li>
             </ul>
           </li>
+          <li><a class="nav-link scrollto" href="../corporate/">Corporate</a></li>
           <li><a class="nav-link scrollto" href="../about">About Us</a></li>
           <li class="dropdown" style="color: #0b2b6a"><a disabled><span>More</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
